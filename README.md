@@ -5,7 +5,7 @@
 ## Запуск
 
 1. Убедитесь, что у вас установлен Java Development Kit (JDK) версии 8 или выше.
-2. Склонируйте репозиторий: `git clone https://github.com/ваш-проект.git`
+2. Склонируйте репозиторий: `https://github.com/ArmanKalmakhambetov/test-work.git`
 3. Перейдите в каталог проекта: `cd ваш-проект`
 4. Запустите приложение: `./mvnw spring-boot:run` (для Unix) или `mvnw spring-boot:run` (для Windows)
 
